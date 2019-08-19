@@ -1,0 +1,64 @@
+# Biome names must match the names used by OpenTerrainGenerator!
+
+Beach:16
+Birch Forest Hills M:156
+Birch Forest Hills:28
+Birch Forest M:155
+Birch Forest:27
+Cold Beach:26
+Cold Taiga Hills:31
+Cold Taiga M:158
+Cold Taiga:30
+Deep Ocean:24
+Desert M:130
+Desert:2
+DesertHills:17
+Extreme Hills Edge:20
+Extreme Hills M:131
+Extreme Hills+ M:162
+Extreme Hills+:34
+Extreme Hills:3
+Flower Forest:132
+Forest:4
+ForestHills:18
+FrozenOcean:10
+FrozenRiver:11
+Hell:8
+Ice Mountains:13
+Ice Plains Spikes:140
+Ice Plains:12
+Jungle M:149
+Jungle:21
+JungleEdge M:151
+JungleEdge:23
+JungleHills:22
+Mega Spruce Taiga Hills:161
+Mega Spruce Taiga:160
+Mega Taiga Hills:33
+Mega Taiga:32
+Mesa (Bryce):165
+Mesa Plateau F M:166
+Mesa Plateau F:38
+Mesa Plateau M:167
+Mesa Plateau:39
+Mesa:37
+MushroomIsland:14
+MushroomIslandShore:15
+Ocean:0
+Plains:1
+River:7
+Roofed Forest M:157
+Roofed Forest:29
+Savanna M:163
+Savanna Plateau M:164
+Savanna Plateau:36
+Savanna:35
+Sky:9
+Stone Beach:25
+Sunflower Plains:129
+Swampland M:134
+Swampland:6
+Taiga M:133
+Taiga:5
+TaigaHills:19
+The Void:127
